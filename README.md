@@ -30,15 +30,19 @@ Here are some ideas to get you started:
   Hi, I'm Alvaro Martinez, Full Stack Web Developer & Electronics Engineer.
   <br>
   <br>
-  🎓 I graduated from Ironhack at Web Development.
+  🎓 I graduated from Ironhack at Web Development. 🎓
   <br>
-  🎓 I graduated from Electronics & Industrial Automation at Burgos University.
   <br>
-  🌎 I participated in an exchange program at Kookmin University in South Korea. 
+  🎓 I graduated from Electronics & Industrial Automation at Burgos University. 🎓
   <br>
-  🌎 I participated in an exchange program at Bragança University in Portugal. 
   <br>
-  📫 How to reach me: <a href="mailto: alvaromfdv@gmail.com">alvaromfdv@gmail.com</a>
+  🌎 I participated in an exchange program at Kookmin University in South Korea. 🌎
+  <br>
+  <br>
+  🌎 I participated in an exchange program at Bragança University in Portugal. 🌎
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: alvaromfdv@gmail.com">alvaromfdv@gmail.com</a> 📫
 </p>
 
 <hr>
