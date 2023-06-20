@@ -44,23 +44,26 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools🔥</h2>
 <br>
 <p align="center">
 
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.jpg"></code>
+
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="express" height="25" src="images/express.png"></code>
   <code><img title="mongoDB" height="25" src="images/mongo.png"></code>
   <code><img title="NodeJs" height="25" src="images/node.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   
 </p>
 <hr>
