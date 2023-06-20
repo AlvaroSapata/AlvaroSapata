@@ -33,7 +33,7 @@
 </p>
 
 <hr>
-<h4 align="center">🔥 Languages & Frameworks & Tools🔥</h4>
+<h3 align="center">🔥 Languages & Frameworks & Tools🔥</h3>
 <br>
 <p align="center">
 
