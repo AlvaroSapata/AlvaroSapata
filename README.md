@@ -72,3 +72,7 @@ Here are some ideas to get you started:
 <p align="center">
         <img src="svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+<p align="center">
+        <img src="svg/Bottom.svg" alt="Github Stats" style="transform: rotate(180deg)"/>
+</p>
