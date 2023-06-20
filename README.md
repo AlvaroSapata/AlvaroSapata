@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  
+
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="express" height="25" src="images/express.png"></code>
   <code><img title="mongoDB" height="25" src="images/mongo.png"></code>
@@ -68,5 +68,9 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h4 align="center">
-  <a href="https://github.com/AlvaroSapata?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/AlvaroSapata?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
+
+<p align="center">
+        <img src="svg/Bottom.svg" alt="Github Stats" />
+</p>
