@@ -20,7 +20,7 @@
   🎓 I graduated from Web Development at Ironhack 🎓
   <br>
   <br>
-  🎓 I graduated from Electronics & Industrial Automation Engeineering at Burgos University 🎓
+  🎓 I graduated from Electronics & Industrial Automation Engineering at Burgos University 🎓
   <br>
   <br>
   🌎 I participated in an exchange program at Kookmin University in South Korea 🌎
